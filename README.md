@@ -5,7 +5,7 @@ You can contact me via:
 - discord at [octeep#9530](https://discord.com/app)
 - email at [octeep@pm.me](mailto:octeep@pm.me)
 
-You con donate to me via:
+You can donate to me via:
 
 
 <noscript><a href="https://liberapay.com/octeep/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
